@@ -61,9 +61,8 @@ To activate:
 
 | Desktop View             | Mobile View             |
 | ------------------------ | ----------------------- |
-| ![Desktop Screenshot](#) | ![Mobile Screenshot](#) |
+| ![Desktop Screenshot](/assests/image.png) | ![Mobile Screenshot](/assests/image_mobile.png) |
 
-*(Replace `#` with actual image links if available)*
 
 ---
 
