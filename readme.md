@@ -24,6 +24,7 @@ This is a responsive and modern personal portfolio website for **Somesh Padsalge
 /
 ├── index.html          # Main HTML file
 ├── styles.css          # Custom styles
+├── assests             # images here for readme 
 └── README.md
 ```
 
